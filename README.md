@@ -1,2 +1,2 @@
-"# Laborat¢rio Git" 
-"Alteraá∆o no branch correcao-bug" 
+"# Laborat√≥rio Git" 
+"Altera√ß√£o no branch correcao-bug" 
